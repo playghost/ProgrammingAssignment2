@@ -1,6 +1,6 @@
 
 
-## This function creates the inverse of the matrix
+## This function creates the inverse of the given matrix
 
 makeCacheMatrix <- function(mtx = matrix()) {
   inverse <- NULL
